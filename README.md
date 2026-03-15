@@ -1,8 +1,7 @@
 # ⚡ Welcome to the Lab
 
 <div align="center">
-  <img src="https://via.placeholder.com/1500x500/0a0a0a/d4af37?text=JOHNSMITHDEV+LAB" alt="Johnsmithdev-lab Banner" width="100%">
-</div>
+  <img src="banner.png_k8cnekk8cnekk8cn.png" alt="Johnsmithdev-lab Banner" width="100%">
 
 ---
 
