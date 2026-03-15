@@ -1,16 +1,24 @@
-## Hi there 👋
+# ⚡ Welcome to the Lab
 
-<!--
-**Johnsmithdev-lab/Johnsmithdev-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://via.placeholder.com/1500x500/0a0a0a/d4af37?text=JOHNSMITHDEV+LAB" alt="Johnsmithdev-lab Banner" width="100%">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Experiments
+* **Founder:** Future Success digital ecosystem.
+* **Building:** AI-augmented software and autonomous agent workflows.
+* **Specializing:** Python, React, and FastAPI architectures.
+
+### 🧪 Technical Stack
+| Category | Tools |
+| :--- | :--- |
+| **Logic** | Python, Node.js, FastAPI |
+| **Interface** | React, Tailwind CSS, Shopify API |
+| **Intelligence** | Gemini API, LLM Integration |
+| **Aesthetics** | Midnight & Gold, High-Contrast UI |
+
+---
+
+> "Turning complex code into future success."
